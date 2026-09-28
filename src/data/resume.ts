@@ -29,7 +29,7 @@ export const contact = {
   email: 'sayan.hazra.applications@outlook.com',
   phone: '+91 7003996450',
   phoneHref: '+917003996450',
-  linkedin: 'https://www.linkedin.com/in/sayan-hazra',
+  linkedin: 'https://www.linkedin.com/in/sayan-hazra-b52204181',
   linkedinLabel: 'linkedin.com/in/sayan-hazra',
   github: 'https://github.com/Sayan2919',
   githubLabel: 'github.com/Sayan2919',
